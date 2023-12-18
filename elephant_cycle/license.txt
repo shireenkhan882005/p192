@@ -1,0 +1,11 @@
+Model Information:
+* title:	Elephant CYCLE
+* source:	https://sketchfab.com/3d-models/elephant-cycle-50e17ba5c2dc4e3d9ed0effc7d2f9fd5
+* author:	exegetpro (https://sketchfab.com/exegetpro)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Elephant CYCLE" (https://sketchfab.com/3d-models/elephant-cycle-50e17ba5c2dc4e3d9ed0effc7d2f9fd5) by exegetpro (https://sketchfab.com/exegetpro) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
